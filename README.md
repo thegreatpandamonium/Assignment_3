@@ -1,2 +1,2 @@
 # Assignment_3
-Please download attached files to test output
+In order to run code open up project tree and navigate to SentenceUtils.java
